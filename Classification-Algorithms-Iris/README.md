@@ -150,6 +150,4 @@ The Iris dataset is highly structured and well-separated, resulting in excellent
 
 ---
 
-## Author
 
-**Pragya Pal**
